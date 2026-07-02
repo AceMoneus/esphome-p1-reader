@@ -1,0 +1,10 @@
+{
+  "domain": "p1_reader",
+  "name": "P1 Reader (Modernized)",
+  "version": "1.0.0",
+  "documentation": "",
+  "requirements": [],
+  "dependencies": [],
+  "codeowners": [],
+  "components": ["p1_reader"]
+}
